@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square&logo=windows" alt="Windows">
 </p>
 
+<p align="center">
+  <img src="screenshots/屏幕截图 2026-06-16 052708.png" alt="Subdivision Surface Viewer Main UI" width="80%">
+</p>
+
 ---
 
 ## ✨ Overview
@@ -150,11 +154,20 @@ Stanford Bunny (the "Hello World" of CG), Utah Teapot (the rendering test classi
 
 ## 📸 Screenshots
 
-> *Add screenshots to your repository! Suggested shots:*
-> - Low-poly original mesh vs. level-4 subdivision (side by side)
-> - All three algorithms applied to the same model
-> - The dark-themed control panel
-> - Wireframe mode showing the subdivided edge topology
+<p align="center">
+  <img src="screenshots/屏幕截图 2026-06-16 053044.png" alt="Screenshot 2" width="45%">
+  <img src="screenshots/屏幕截图 2026-06-16 053109.png" alt="Screenshot 3" width="45%">
+</p>
+
+<p align="center">
+  <img src="screenshots/屏幕截图 2026-06-17 200219.png" alt="Screenshot 4" width="45%">
+  <img src="screenshots/屏幕截图 2026-06-17 200242.png" alt="Screenshot 5" width="45%">
+</p>
+
+<p align="center">
+  <img src="screenshots/屏幕截图 2026-06-17 200335.png" alt="Screenshot 6" width="45%">
+  <img src="screenshots/屏幕截图 2026-06-17 200408.png" alt="Screenshot 7" width="45%">
+</p>
 
 ---
 
