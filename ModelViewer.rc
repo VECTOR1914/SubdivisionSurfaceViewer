@@ -1,0 +1,26 @@
+// ============================================================
+// ModelViewer.rc - Windows 资源文件
+// 将 16 个 OBJ 模型嵌入 exe 作为 RCDATA 资源
+// 单个 exe 分发，无需附带模型文件
+// ============================================================
+#include "resource.h"
+
+// ---- 小模型 (< 500 KB) ----
+IDR_MODEL_PAWN      RCDATA  "models\\pawn.obj"
+IDR_MODEL_DEER      RCDATA  "models\\deer.obj"
+IDR_MODEL_CAT       RCDATA  "models\\cat.obj"
+IDR_MODEL_TEAPOT    RCDATA  "models\\teapot.obj"
+IDR_MODEL_SALMON    RCDATA  "models\\salmon.obj"
+
+// ---- 大模型 (>= 500 KB) ----
+IDR_MODEL_DINO      RCDATA  "models\\dino.obj"
+IDR_MODEL_VASE      RCDATA  "models\\vase.obj"
+IDR_MODEL_SPACESHIP RCDATA  "models\\spaceship.obj"
+IDR_MODEL_COW       RCDATA  "models\\cow.obj"
+IDR_MODEL_FACE      RCDATA  "models\\face.obj"
+IDR_MODEL_DOG       RCDATA  "models\\dog.obj"
+IDR_MODEL_SKELETON  RCDATA  "models\\skeleton.obj"
+IDR_MODEL_DUCKY     RCDATA  "models\\ducky.obj"
+IDR_MODEL_BUNNY     RCDATA  "models\\bunny.obj"
+IDR_MODEL_BUNNY2    RCDATA  "models\\bunny2.obj"
+IDR_MODEL_CATH      RCDATA  "models\\catH.obj"
